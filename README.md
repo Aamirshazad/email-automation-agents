@@ -1,4 +1,4 @@
-# Agents From Scratch 
+# Email Agents 
 
 ## Environment Setup 
 
